@@ -143,7 +143,7 @@
 						<ul>
                         <li>Total <span>Rp {{$total}}</span></li>
 						</ul>
-							<a class="btn btn-default check_out" href="">Check Out</a>
+							<a class="btn btn-default check_out" href="/Checkout">Check Out</a>
 					</div>
 				</div>
 			</div>
