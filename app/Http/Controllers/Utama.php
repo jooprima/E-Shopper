@@ -5,12 +5,14 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 
 use App\M_Barang;
+use Illuminate\Support\Facades\DB;
 
 class Utama extends Controller
 {
     public function index()
     {
-        return view('Utama');
+        $barang = DB::table('tbl_barang')->get();
+        return view('Utama',['barang' => $barang]);
     }
 
     public function store(Request $request){
