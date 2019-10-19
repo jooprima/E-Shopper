@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="">
     <meta name="author" content="">
-    <title>Home | E-Shopper</title>
+    <title>Home | Kandang-MOO</title>
     <link href="/BahanStudy/css/bootstrap.min.css" rel="stylesheet">
     <link href="/BahanStudy/css/font-awesome.min.css" rel="stylesheet">
     <link href="/BahanStudy/css/prettyPhoto.css" rel="stylesheet">
@@ -17,7 +17,7 @@
     <script src="js/html5shiv.js"></script>
     <script src="js/respond.min.js"></script>
     <![endif]-->       
-    <link rel="shortcut icon" href="images/ico/favicon.ico">
+    <link rel="shortcut icon" href="/BahanStudy/images/favicon.ico">
     <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/BahanStudy/images/ico/apple-touch-icon-144-precomposed.png">
     <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/BahanStudy/images/ico/apple-touch-icon-114-precomposed.png">
     <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/BahanStudy/images/ico/apple-touch-icon-72-precomposed.png">
@@ -36,7 +36,7 @@
 				<div class="row">
 					<div class="col-md-4 clearfix">
 						<div class="logo pull-left">
-							<a href="/"><img src="/BahanStudy/images/home/logo.png" alt="" /></a>
+							<a href="/"><img src="/BahanStudy/images/home/logo1.png" alt="" /></a>
 						</div>
 						
 					</div>
@@ -68,7 +68,7 @@
 						<div class="mainmenu pull-left">
 							<ul class="nav navbar-nav collapse navbar-collapse">
 								<li><a href="/" class="active">Home</a></li>
-								<li><a href="contact-us.html">Contact</a></li>
+								<li><a href="https://kandang-moo-susu-sapi-murni.business.site/" target="_blank">Contact</a></li>
 								<li><a href="/Confirm">Confirm</a></li>
 							</ul>
 						</div>
@@ -97,39 +97,39 @@
 						<div class="carousel-inner">
 							<div class="item active">
 								<div class="col-sm-6">
-									<h1><span>E</span>-SHOPPER</h1>
-									<h2>Free E-Commerce Template</h2>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+									<h1><span>Kandang</span>-MOO</h1>
+									<h2>PURE MILK COW PASTEURIZATION</h2>
+									<p>Kandang Moo is a brand that produces processed pure cow's milk. The cow's milk used has been processed by pasteurization which makes milk more durable and safer for anyone to drink. Cage Moo is made of quality ingredients, without preservatives, without artificial sweeteners, and without water / coconut milk mixture. Kandang Moo in collaboration with local breeders is always trying to produce good quality milk for our customers.</p>
 									<button type="button" class="btn btn-default get">Get it now</button>
 								</div>
 								<div class="col-sm-6">
-									<img src="/BahanStudy/images/home/girl1.jpg" class="girl img-responsive" alt="" />
-									<img src="/BahanStudy/images/home/pricing.png"  class="pricing" alt="" />
+									<img src="/BahanStudy/images/home/galeri2.jpg" class="girl img-responsive" alt="" />
+									{{-- <img src="/BahanStudy/images/home/pricing.png"  class="pricing" alt="" /> --}}
 								</div>
 							</div>
 							<div class="item">
 								<div class="col-sm-6">
-									<h1><span>E</span>-SHOPPER</h1>
-									<h2>100% Responsive Design</h2>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+									<h1><span>Kandang</span>-MOO</h1>
+									<h2>PURE MILK COW PASTEURIZATION</h2>
+									<p>Kandang Moo is a brand that produces processed pure cow's milk. The cow's milk used has been processed by pasteurization which makes milk more durable and safer for anyone to drink. Cage Moo is made of quality ingredients, without preservatives, without artificial sweeteners, and without water / coconut milk mixture. Kandang Moo in collaboration with local breeders is always trying to produce good quality milk for our customers.</p>
 									<button type="button" class="btn btn-default get">Get it now</button>
 								</div>
 								<div class="col-sm-6">
-									<img src="/BahanStudy/images/home/girl2.jpg" class="girl img-responsive" alt="" />
-									<img src="/BahanStudy/images/home/pricing.png"  class="pricing" alt="" />
+									<img src="/BahanStudy/images/home/slider1.jpg" class="girl img-responsive" alt="" />
+									{{-- <img src="/BahanStudy/images/home/pricing.png"  class="pricing" alt="" /> --}}
 								</div>
 							</div>
 							
 							<div class="item">
 								<div class="col-sm-6">
-									<h1><span>E</span>-SHOPPER</h1>
-									<h2>Free Ecommerce Template</h2>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+									<h1><span>Kandang</span>-MOO</h1>
+									<h2>PURE MILK COW PASTEURIZATION</h2>
+									<p>Kandang Moo is a brand that produces processed pure cow's milk. The cow's milk used has been processed by pasteurization which makes milk more durable and safer for anyone to drink. Cage Moo is made of quality ingredients, without preservatives, without artificial sweeteners, and without water / coconut milk mixture. Kandang Moo in collaboration with local breeders is always trying to produce good quality milk for our customers.</p>
 									<button type="button" class="btn btn-default get">Get it now</button>
 								</div>
 								<div class="col-sm-6">
-									<img src="/BahanStudy/images/home/girl3.jpg" class="girl img-responsive" alt="" />
-									<img src="/BahanStudy/images/home/pricing.png" class="pricing" alt="" />
+									<img src="/BahanStudy/images/home/slider2.jpg" class="girl img-responsive" alt="" />
+									{{-- <img src="/BahanStudy/images/home/pricing.png" class="pricing" alt="" /> --}}
 								</div>
 							</div>
 							
@@ -154,7 +154,7 @@
 				<div class="col-sm-3">
 					<div class="left-sidebar">
 						<div class="shipping text-center"><!--shipping-->
-							<img src="/BahanStudy/images/home/shipping.jpg" alt="" />
+							<img src="/BahanStudy/images/home/frezer.jpg" alt="" />
 						</div><!--/shipping-->
 					
 					</div>
@@ -206,8 +206,8 @@
 		<div class="footer-bottom">
 			<div class="container">
 				<div class="row">
-					<p class="pull-left">Copyright © 2013 E-SHOPPER Inc. All rights reserved.</p>
-					<p class="pull-right">Designed by <span><a target="_blank" href="http://www.themeum.com">Themeum</a></span></p>
+					<p class="pull-left">Copyright © 2019 Kandang-Moo Inc. All rights reserved.</p>
+					<p class="pull-right">Designed by <span><a target="_blank" href="https://github.com/jooprima/E-Shopper">@jooprima</a></span></p>
 				</div>
 			</div>
 		</div>
