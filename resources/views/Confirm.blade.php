@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta name="description" content="">
         <meta name="author" content="">
-        <title>Login | E-Shopper</title>
+        <title>Login | Kandang-MOO</title>
         <link href="/BahanStudy/css/bootstrap.min.css" rel="stylesheet">
         <link href="/BahanStudy/css/font-awesome.min.css" rel="stylesheet">
         <link href="/BahanStudy/css/prettyPhoto.css" rel="stylesheet">
@@ -17,7 +17,7 @@
         <script src="js/html5shiv.js"></script>
         <script src="js/respond.min.js"></script>
         <![endif]-->
-        <link rel="shortcut icon" href="images/ico/favicon.ico">
+        <link rel="shortcut icon" href="/BahanStudy/images/favicon.ico">
         <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/BahanStudy/images/ico/apple-touch-icon-144-precomposed.png">
         <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/BahanStudy/images/ico/apple-touch-icon-114-precomposed.png">
         <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/BahanStudy/images/ico/apple-touch-icon-72-precomposed.png">
@@ -32,16 +32,16 @@
                            <div class="row">
                                    <div class="col-md-4 clearfix">
                                            <div class="logo pull-left">
-                                                   <a href="index.html"><img src="/BahanStudy/images/home/logo.png" alt="" /></a>
+                                                   <a href="/"><img src="/BahanStudy/images/home/logo1.png" alt="" /></a>
                                            </div>
 
                                    </div>
                                    <div class="col-md-8 clearfix">
                                            <div class="shop-menu clearfix pull-right">
                                                    <ul class="nav navbar-nav">
-                                                           <li><a href="checkout.html"><i class="fa fa-crosshairs"></i> Checkout</a></li>
-                                                           <li><a href="cart.html"><i class="fa fa-shopping-cart"></i> Cart</a></li>
-                                                           <li><a href="login.html"><i class="fa fa-lock"></i> Login</a></li>
+                                                           <li><a href="/Checkout"><i class="fa fa-crosshairs"></i> Checkout</a></li>
+                                                           <li><a href="/Keranjang"><i class="fa fa-shopping-cart"></i> Cart</a></li>
+                                                           <li><a href="/Login"><i class="fa fa-lock"></i> Login</a></li>
                                                    </ul>
                                            </div>
                                    </div>
@@ -63,9 +63,9 @@
                                            </div>
                                            <div class="mainmenu pull-left">
                                                    <ul class="nav navbar-nav collapse navbar-collapse">
-                                                           <li><a href="index.html" class="active">Home</a></li>
-                                                           <li><a href="contact-us.html">Contact</a></li>
-                                                           <li><a href="konfirmasi.html">Confirm</a></li>
+                                                           <li><a href="/" class="active">Home</a></li>
+                                                           <li><a href="https://kandang-moo-susu-sapi-murni.business.site/" target="_blank">Contact</a></li>
+                                                           <li><a href="/Confirm">Confirm</a></li>
                                                    </ul>
                                            </div>
                                    </div>
@@ -101,8 +101,8 @@
            <div class="footer-bottom">
                    <div class="container">
                            <div class="row">
-                                   <p class="pull-left">Copyright (c) 2013 E-SHOPPER Inc. All rights reserved.</p>
-                                   <p class="pull-right">Designed by <span><a target="_blank" href="http://www.themeum.com">Themeum</a></span></p>
+                                   <p class="pull-left">Copyright © 2019 Kandang-Moo Inc. All rights reserved.</p>
+					<p class="pull-right">Designed by <span><a target="_blank" href="https://github.com/jooprima/E-Shopper">@jooprima</a></span></p>
                            </div>
                    </div>
            </div>
